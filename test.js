@@ -130,7 +130,7 @@ var UserProfile = React.createClass({
         return (
             <div className="UserProfile">
                 <div className="User">
-                    <div className="name">Onur Gültekin 1</div>
+                    <div className="name">Onur Gültekin</div>
                     <div className="image"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/profile/profile-512_1.jpg" /></div>
                 </div>
                 <div className="UserProfile-menu">
@@ -141,7 +141,7 @@ var UserProfile = React.createClass({
                                     <img src="http://lorempixel.com/96/96" />
                                 </div>
                                 <div className="UserProfile-name">
-                                    Alexander
+                                    Onur
                                 </div>
                             </li>
                             <li>
@@ -149,14 +149,14 @@ var UserProfile = React.createClass({
                                     <img src="http://lorempixel.com/96/96" />
                                 </div>
                                 <div className="UserProfile-name">
-                                    Mattias
+                                    Gültekin
                                 </div>
                             </li>
                         </ul>
                     </div>
                     <div className="UserNavigation">
                         <ul>
-                            <li>Your Account</li>
+                            <li>Hesabınız</li>
                             <li>Help Center</li>
                             <li>Sign out of Netflix</li>
                         </ul>
